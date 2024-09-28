@@ -1,0 +1,7 @@
+C:\Users\jorgeav\Documents\C-Udemy\Desafio2\Desafio2\bin\Debug\Desafio2.exe.config
+C:\Users\jorgeav\Documents\C-Udemy\Desafio2\Desafio2\bin\Debug\Desafio2.exe
+C:\Users\jorgeav\Documents\C-Udemy\Desafio2\Desafio2\bin\Debug\Desafio2.pdb
+C:\Users\jorgeav\Documents\C-Udemy\Desafio2\Desafio2\obj\Debug\Desafio2.csproj.AssemblyReference.cache
+C:\Users\jorgeav\Documents\C-Udemy\Desafio2\Desafio2\obj\Debug\Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\jorgeav\Documents\C-Udemy\Desafio2\Desafio2\obj\Debug\Desafio2.exe
+C:\Users\jorgeav\Documents\C-Udemy\Desafio2\Desafio2\obj\Debug\Desafio2.pdb
