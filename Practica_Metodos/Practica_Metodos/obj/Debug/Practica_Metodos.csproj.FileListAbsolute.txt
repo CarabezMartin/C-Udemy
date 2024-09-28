@@ -1,0 +1,7 @@
+C:\Users\jorgeav\Documents\C-Udemy\Practica_Metodos\Practica_Metodos\bin\Debug\Practica_Metodos.exe.config
+C:\Users\jorgeav\Documents\C-Udemy\Practica_Metodos\Practica_Metodos\bin\Debug\Practica_Metodos.exe
+C:\Users\jorgeav\Documents\C-Udemy\Practica_Metodos\Practica_Metodos\bin\Debug\Practica_Metodos.pdb
+C:\Users\jorgeav\Documents\C-Udemy\Practica_Metodos\Practica_Metodos\obj\Debug\Practica_Metodos.csproj.AssemblyReference.cache
+C:\Users\jorgeav\Documents\C-Udemy\Practica_Metodos\Practica_Metodos\obj\Debug\Practica_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\jorgeav\Documents\C-Udemy\Practica_Metodos\Practica_Metodos\obj\Debug\Practica_Metodos.exe
+C:\Users\jorgeav\Documents\C-Udemy\Practica_Metodos\Practica_Metodos\obj\Debug\Practica_Metodos.pdb
