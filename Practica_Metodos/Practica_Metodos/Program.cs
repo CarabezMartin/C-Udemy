@@ -10,9 +10,23 @@ namespace Practica_Metodos
     {
         static void Main(string[] args)
         {
+            
+            int num1, num2, res;
 
-            Console.WriteLine(Multiplicar(15, 14));
+            Console.WriteLine("Ingrese el primer numero: ");
+            num1 = Convert.ToInt16(Console.ReadLine());
+
+            try
+            {
+                Console.WriteLine(num1 / 0);
+            }
+            catch (DivideByZeroException)
+            {
+                Console.WriteLine("No se puede realizar una division entre 0.");
+            }
+                      
             Console.Read();
+            
         }
 
         #region Metodos sin valor de retorno
